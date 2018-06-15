@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-image: url("images/background.jpg");
+}
+h1 {
+    font-family: 'Work Sans', sans-serif; 
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+header p {
+    text-align: center;
+}
+figure {
+    float: right;
+    background-color: #bf8585;
+
+}
+img {
+    border: solid black 5px;
+    float: left;
+    padding: 20px;
+    margin: 5px;
+}
+article { 
+    min-height: 1050px;
+}
+footer {
+    background-color: #85bfbf;
+    min-height: 100px;
+}
+button {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+    text: 5px;
+}
